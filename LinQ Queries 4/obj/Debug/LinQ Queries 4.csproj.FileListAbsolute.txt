@@ -1,0 +1,6 @@
+D:\Visual Stuido 2019 Projeler\LinQ Queries\LinQ Queries 4\bin\Debug\LinQ Queries 4.exe.config
+D:\Visual Stuido 2019 Projeler\LinQ Queries\LinQ Queries 4\bin\Debug\LinQ Queries 4.exe
+D:\Visual Stuido 2019 Projeler\LinQ Queries\LinQ Queries 4\bin\Debug\LinQ Queries 4.pdb
+D:\Visual Stuido 2019 Projeler\LinQ Queries\LinQ Queries 4\obj\Debug\LinQ Queries 4.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\LinQ Queries\LinQ Queries 4\obj\Debug\LinQ Queries 4.exe
+D:\Visual Stuido 2019 Projeler\LinQ Queries\LinQ Queries 4\obj\Debug\LinQ Queries 4.pdb
